@@ -18,4 +18,5 @@ class KodePos
         { "Maleer", "40274" },
         { "Samoja", "40273" }
     };
+}
 
